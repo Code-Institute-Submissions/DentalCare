@@ -1,12 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700');
 
-.navbar {
+body {
 font-family: 'Noto Sans JP', sans-serif;
-width:100%;
 }
 
-.right-side-button {
-float: right;
-}
+/*-------------------- Navbar ---*/
 
-/*-------------------- Colors -*/
+/*-------------------- Colors ---*/
