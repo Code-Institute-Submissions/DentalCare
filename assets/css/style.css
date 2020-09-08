@@ -1,14 +1,41 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700');
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700");
 
 body {
-font-family: 'Noto Sans JP', sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
 }
 
 /*-------------------- Navbar ---*/
 
 .menuitem a i {
-margin-right: 10px;
-margin-left: 20px;
+  margin-right: 10px;
+  margin-left: 20px;
 }
 
 /*-------------------- Colors ---*/
+
+footer {
+  background-color: #bffffb;
+}
+
+/*-------------------- Headings ---*/
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+
+.general-sub {
+font-weight: 300;
+}
+
+/*-------------------- Hover.css ---*/
+
+/*-------------------- Footer ---*/
+
+footer {
+  height: 100px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
