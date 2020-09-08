@@ -1,32 +1,32 @@
-#Dental Care#
+# Dental Care
 
-##Overview##
+## Overview 
 
 This project is designed to highlight the services of a fictional Dental Practice.
 Using HTML & CSS the aim is provide an overview of the practice, the services on offer and testimonials from existing customers.
 The purpose of the web page is to attract new customers and provide an efficient website for existing customers to request new appointments.
 
-##UX##
+## UX 
 
-##Features##
+## Features 
 
-###Existing Features###
+### Existing Features
 
-###Features Left to Implement###
+### Features Left to Implement
 
-##Technologies Used##
+## Technologies Used
 
 * HTML
 * CSS
 
-##Testing##
+## Testing
 
-##Deployment##
+## Deployment
 
-##Credit##
+## Credit
 
-###Content##
+### Content
 
-###Media###
+### Media
 
-###Acknowledgements###
+### Acknowledgements
