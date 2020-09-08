@@ -6,4 +6,9 @@ font-family: 'Noto Sans JP', sans-serif;
 
 /*-------------------- Navbar ---*/
 
+.menuitem a i {
+margin-right: 10px;
+margin-left: 20px;
+}
+
 /*-------------------- Colors ---*/
