@@ -13,8 +13,25 @@ body {
 
 /*-------------------- Colors ---*/
 
+body {
+color: #9b9999;
+}
+
+.navbar-light .navbar-brand {
+color:#9b9999;
+}
+
 footer {
-  background-color: #bffffb;
+  background-color: #9b9999;
+  border-color: #bffffb;
+}
+
+footer h6 {
+color: #fff;
+}
+
+footer p {
+color: #fff;
 }
 
 /*-------------------- Headings ---*/
@@ -22,12 +39,49 @@ footer {
 h1,
 h2,
 h3,
-h4 {
+h4,
+h5,
+h6 {
   margin: 0;
 }
 
 .general-sub {
-font-weight: 300;
+  font-weight: 300;
+}
+
+.social-links li a i {
+width: 32px;
+height: 32px;
+padding: 12px 0;
+border-radius: 50%;
+font-size: 13px;
+line-height: 7px;
+text-align: center;
+color: #fff;
+background: #8f8f8f;
+padding-bottom: 15px;
+transition: all 0.35s ease-in-out;
+-moz-transition: all 0.35s ease-in-out;
+-webkit-transition: all 0.35s ease-in-out;
+-o-transition: all 0.35s ease-in-out;
+}
+
+.social-links-facebook i:hover {
+background: #3b5998;
+}
+
+.social-links-twitter i:hover {
+background: #00acee;
+}
+
+.social-links-youtube i:hover {
+background: #ff0000;
+}
+
+
+h6 {
+font-weight: 400;
+text-transform: uppercase;
 }
 
 /*-------------------- Hover.css ---*/
@@ -35,7 +89,20 @@ font-weight: 300;
 /*-------------------- Footer ---*/
 
 footer {
-  height: 100px;
+  border-style: solid;
+  border-width: 10px 0px 0px 0px;
   text-align: center;
   font-family: "Roboto", sans-serif;
+}
+
+footer h6 {
+margin-top: 5px;
+}
+
+footer h6 i {
+padding-right: 5px;
+}
+
+footer p {
+font-size: 10px;
 }
