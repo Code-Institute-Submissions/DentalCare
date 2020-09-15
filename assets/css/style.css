@@ -34,6 +34,9 @@ footer p {
 color: #fff;
 }
 
+h3.section-heading a {
+color: #9b9999;
+}
 /*-------------------- Headings ---*/
 
 h1,
@@ -78,7 +81,6 @@ background: #00acee;
 background: #ff0000;
 }
 
-
 h6 {
 font-weight: 400;
 text-transform: uppercase;
@@ -88,6 +90,10 @@ text-transform: uppercase;
 text-align: center;
 }
 /*-------------------- Text ---*/
+
+.uppercase {
+text-transform: uppercase;
+}
 
 p.about {
 padding-right: 15%;
@@ -143,4 +149,11 @@ p.about {
 padding-right: 0;
 padding-left: 0;
 text-align: left;
+}
+
+/*-------------------- Icons ---*/
+
+.icon {
+margin-right: 10px;
+margin-left: 20px;
 }
