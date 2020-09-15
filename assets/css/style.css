@@ -87,6 +87,13 @@ text-transform: uppercase;
 .section-heading {
 text-align: center;
 }
+/*-------------------- Text ---*/
+
+p.about {
+padding-right: 15%;
+padding-left: 15%;
+text-align: center;
+}
 
 /*-------------------- Hover.css ---*/
 
@@ -130,4 +137,10 @@ border-radius: 75px;
 .dentalcare-image {
 max-width: 100%;
     height: auto;
+}
+
+p.about {
+padding-right: 0;
+padding-left: 0;
+text-align: left;
 }
