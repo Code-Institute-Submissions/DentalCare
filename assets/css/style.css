@@ -84,6 +84,10 @@ font-weight: 400;
 text-transform: uppercase;
 }
 
+.section-heading {
+text-align: center;
+}
+
 /*-------------------- Hover.css ---*/
 
 /*-------------------- Footer ---*/
@@ -105,4 +109,25 @@ padding-right: 5px;
 
 footer p {
 font-size: 10px;
+}
+
+/*-------------------- Images ---*/
+
+.dentalcare-image {
+height: 629px;
+width: 944px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+padding-top: 10px;
+border-radius: 75px;
+}
+
+/*-------------------- Media Queries ---*/
+
+@media only screen and (max-width: 768px) {
+
+.dentalcare-image {
+max-width: 100%;
+    height: auto;
 }
