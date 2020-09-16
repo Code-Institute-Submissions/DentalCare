@@ -105,6 +105,16 @@ h3.section-heading a {
 text-decoration: none;
 }
 
+.page-header {
+text-align: center;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+h2 span {
+margin-left: 10px;
+}
+
 /*-------------------- Text & Links ---*/
 
 p.about {
@@ -196,6 +206,30 @@ margin-right: auto;
 display: block;
 padding-top: 10px;
 border-radius: 75px;
+}
+
+.image-adjust {
+    width: 250px;
+    height: 250px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.services-image {
+  display: inline;
+  margin: 0 auto;
+  margin-left: -40%;
+  height: 100%;
+  width: auto;
+}
+
+.services-image-secondary {
+  display: inline;
+  margin: 0 auto;
+  margin-left: -5%;
+  height: 100%;
+  width: auto;
 }
 
 /*-------------------- Media Queries ---*/
