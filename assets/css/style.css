@@ -51,7 +51,7 @@ h6 {
 }
 
 .general-sub {
-  margin: 10px 0 10px 0;
+  margin: 20px 0 20px 0;
   font-weight: 300;
   font-size: 1.5em;
 }
@@ -113,6 +113,10 @@ margin-top: 20px;
 margin-bottom: 40px;
 }
 
+.page-header h2 {
+margin-bottom: 40px;
+}
+
 h2 span {
 margin-left: 10px;
 }
@@ -152,6 +156,15 @@ a.moreinfo {
   border-radius: 75px;
   margin: 0 10px 10px 0;
   font-size: 0.8em;
+}
+
+.page-header p {
+margin-left: 20%;
+margin-right: 20%;
+}
+
+.services p {
+margin-bottom: 40px;
 }
 
 /*-------------------- Hover.css ---*/
@@ -265,6 +278,10 @@ text-align: left;
 text-align: center;
 }
 
+.page-header p {
+margin-left: 0;
+margin-right: 0;
+}
 
 /*-------------------- Icons ---*/
 
@@ -314,4 +331,10 @@ margin-left: 20px;
 .container {
   max-width: 100%;  
   margin: 40px auto;
+}
+
+/*-------------------- Lists ---*/
+
+ul {
+list-style-type: circle;
 }
