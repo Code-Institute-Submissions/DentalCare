@@ -144,17 +144,25 @@ a.moreinfo {
 
 /*-------------------- Hover.css ---*/
 
+a.hvr-sweep-to-right:hover {
+ -moz-border-radius: 75px;
+  -webkit-border-radius: 75px;
+  border-radius: 75px 75px 75px 75px;
+}
+
 .hvr-sweep-to-right:hover {
- -moz-border-radius-topleft: 75px;
-  -moz-border-radius-topright: 75px;
-  -moz-border-radius-bottomright: 75px;
-  -moz-border-radius-bottomleft: 75px;
-  -webkit-border-radius: 75px 75px 75px 75px;
+color: #8f8f8f;
+ -moz-border-radius: 75px;
+  -webkit-border-radius: 75px;
   border-radius: 75px 75px 75px 75px;
 }
 
 .hvr-sweep-to-right:before {
+color: #8f8f8f;
 background-color: #bffffb;
+ -moz-border-radius: 75px;
+  -webkit-border-radius: 75px;
+  border-radius: 75px 75px 75px 75px;
 }
 
 /*-------------------- Footer ---*/
