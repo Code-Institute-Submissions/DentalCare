@@ -2,6 +2,7 @@
 
 body {
   font-family: "Noto Sans JP", sans-serif;
+  line-height: 1em;
 }
 
 /*-------------------- Navbar ---*/
@@ -37,6 +38,7 @@ color: #fff;
 h3.section-heading a {
 color: #9b9999;
 }
+
 /*-------------------- Headings ---*/
 
 h1,
@@ -89,19 +91,71 @@ text-transform: uppercase;
 .section-heading {
 text-align: center;
 }
-/*-------------------- Text ---*/
 
-.uppercase {
-text-transform: uppercase;
+div.section-heading {
+margin-bottom: 0;
 }
 
+.section-heading a {
+margin-top: 20px;
+font-size: 0.75em;
+}
+
+h3.section-heading a {
+text-decoration: none;
+}
+
+/*-------------------- Text & Links ---*/
+
 p.about {
+margin-top: 10px;
 padding-right: 15%;
 padding-left: 15%;
 text-align: center;
 }
 
+p.section-overview {
+margin-top: 10px;
+margin-left: 60px;
+}
+
+div.linkitem {
+padding: 0 0 0 10px;
+}
+
+a span {
+padding-right: 10px;
+}
+
+a.moreinfo {
+  float: right;
+  text-decoration: none;
+  background-color: #fff;
+  color: #8f8f8f;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #8f8f8f;
+  border-right: 1px solid #8f8f8f;
+  border-bottom: 1px solid #8f8f8f;
+  border-left: 1px solid #8f8f8f;
+  border-radius: 75px;
+  margin: 0 10px 10px 0;
+  font-size: 0.8em;
+}
+
 /*-------------------- Hover.css ---*/
+
+.hvr-sweep-to-right:hover {
+ -moz-border-radius-topleft: 75px;
+  -moz-border-radius-topright: 75px;
+  -moz-border-radius-bottomright: 75px;
+  -moz-border-radius-bottomleft: 75px;
+  -webkit-border-radius: 75px 75px 75px 75px;
+  border-radius: 75px 75px 75px 75px;
+}
+
+.hvr-sweep-to-right:before {
+background-color: #bffffb;
+}
 
 /*-------------------- Footer ---*/
 
@@ -151,9 +205,56 @@ padding-left: 0;
 text-align: left;
 }
 
+.section-heading {
+text-align: left;
+}
+
 /*-------------------- Icons ---*/
 
-.icon {
+i.icon {
 margin-right: 10px;
 margin-left: 20px;
+}
+
+/*-------------------- Imported Code ---*/
+
+/*-------------------- https://codepen.io/scottzirkel/pen/yNxNME ---*/
+
+.hr-text {
+  margin-top: 2em;
+  line-height: 1em;
+  position: relative;
+  outline: 0;
+  border: 0;
+  color: black;
+  text-align: center;
+  height: 1.5em;
+  opacity: .5;
+}
+
+.hr-text:before {
+    content: '';
+    background: linear-gradient(to right, transparent, #9b9999, transparent);
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    height: 1px;
+  }
+
+.hr-text:after {
+    content: attr(data-content);
+    position: relative;
+    display: inline-block;
+    color: black;
+    padding: 0 .5em;
+    line-height: 1.5em;
+    color: #9b9999;
+    background-color: #fff;
+  }
+
+
+.container {
+  max-width: 100%;  
+  margin: 40px auto;
 }
