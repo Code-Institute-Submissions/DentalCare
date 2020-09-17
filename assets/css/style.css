@@ -39,6 +39,10 @@ h3.section-heading a {
 color: #9b9999;
 }
 
+textarea.contact-form {
+color: #b8b7b7;
+}
+
 /*-------------------- Headings ---*/
 
 h1,
@@ -281,47 +285,28 @@ border-radius: 75px;
   width: auto;
 }
 
-/*-------------------- Media Queries ---*/
-
-@media only screen and (max-width: 768px) {
-
-.dentalcare-image {
-max-width: 100%;
-    height: auto;
+.contact-image {
+height: 336.875px;
+width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+padding-top: 10px;
+border-radius: 75px;
 }
 
-p.about {
-padding-right: 0;
-padding-left: 0;
-text-align: left;
-}
-
-.section-heading {
-text-align: left;
-}
-
-.image-adjust {
-    width: 150px;
-    height: 150px;
-      display: block;
+div.contact-image {
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.general-sub {
-text-align: center;
-}
+/*-------------------- Forms ---*/
 
-.page-header p {
-margin-left: 0;
-margin-right: 0;
-}
-
-p.testimonial-link {
-margin: 0 0 15px 0;
-text-align: center;
-}
-
+.contact {
+max-width: 50%;
+margin-left: auto;
+margin-right: auto;
 }
 
 /*-------------------- Icons ---*/
@@ -378,4 +363,63 @@ margin-left: 20px;
 
 ul {
 list-style-type: circle;
+}
+
+/*-------------------- Buttons ---*/
+
+button.submit-button {
+float: right;
+}
+
+/*-------------------- Media Queries ---*/
+
+@media only screen and (max-width: 768px) {
+
+.dentalcare-image {
+max-width: 100%;
+    height: auto;
+}
+
+p.about {
+padding-right: 0;
+padding-left: 0;
+text-align: left;
+}
+
+.section-heading {
+text-align: left;
+}
+
+.image-adjust {
+    width: 150px;
+    height: 150px;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.general-sub {
+text-align: center;
+}
+
+.page-header p {
+margin-left: 0;
+margin-right: 0;
+}
+
+p.testimonial-link {
+margin: 0 0 15px 0;
+text-align: center;
+}
+
+.contact-image { 
+max-width: 100%;
+    height: auto;
+}
+
+.contact {
+max-width: 100%;
+margin: 0;
+}
+
 }
