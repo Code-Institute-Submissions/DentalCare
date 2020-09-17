@@ -171,6 +171,19 @@ p.testimonial-link {
 margin-left: 30px;
 }
 
+p.quote {
+font-size: 0.75em;
+}
+
+blockquote p {
+font-size: 0.5em;
+float: right;
+}
+
+p.name-date {
+margin-bottom: 50px;
+}
+
 /*-------------------- Hover.css ---*/
 
 a.hvr-sweep-to-right:hover {
@@ -247,6 +260,23 @@ border-radius: 75px;
   display: inline;
   margin: 0 auto;
   margin-left: -5%;
+  height: 100%;
+  width: auto;
+}
+
+.testimonial-image {
+  display: inline;
+  margin: 0 auto;
+  margin-bottom: 20%;
+  margin-left: 10%;
+  height: 100%;
+  width: auto;
+}
+
+.testimonial-image-secondary {
+  display: inline;
+  margin: 0 auto;
+  margin-right: 60%;
   height: 100%;
   width: auto;
 }
