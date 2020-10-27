@@ -1,8 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700");
 
+html {
+  min-height: 100vh;
+}
+
 body {
   font-family: "Noto Sans JP", sans-serif;
   line-height: 1em;
+  min-height: 100vh;
 }
 
 /*-------------------- Navbar ---*/
@@ -420,6 +425,16 @@ max-width: 100%;
 .contact {
 max-width: 100%;
 margin: 0;
+}
+
+}
+
+@media only screen and (min-width: 1024px) and (max-height: 1366px)
+    and (-webkit-min-device-pixel-ratio: 1.5) {
+
+footer {
+position: absolute;
+bottom: 0;
 }
 
 }
