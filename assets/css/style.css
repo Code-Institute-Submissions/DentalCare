@@ -12,10 +12,6 @@ body {
 
 /*-------------------- Navbar ---*/
 
-.navbar {
-position: top;
-}
-
 .menuitem a i {
   margin-right: 10px;
   margin-left: 20px;
@@ -195,6 +191,10 @@ float: right;
 
 p.name-date {
 margin-bottom: 50px;
+}
+
+h6.general-sub {
+margin-right: 30px;
 }
 
 /*-------------------- Hover.css ---*/
