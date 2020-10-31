@@ -378,7 +378,9 @@ list-style-type: circle;
 
 button.submit-button {
 float: right;
+border-radius: 75px 75px 75px 75px;
 }
+
 
 /*-------------------- Media Queries ---*/
 
