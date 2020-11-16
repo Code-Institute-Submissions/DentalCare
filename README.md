@@ -141,7 +141,7 @@ Brand colours for social media (Facebook,Twitter and YouTube) mouseover effects 
 
 #### Content
 
-[Hover.css](https://ianlunn.github.io/Hover/) Used for Link and Button sweep effect.
-Grey sub-heading divider code was obtained from [Codepen.io](https://codepen.io/scottzirkel/pen/yNxNME)
+* [Hover.css](https://ianlunn.github.io/Hover/) Used for Link and Button sweep effect.
+* Grey sub-heading divider code was obtained from [Codepen.io](https://codepen.io/scottzirkel/pen/yNxNME)
 
 ### Acknowledgements
