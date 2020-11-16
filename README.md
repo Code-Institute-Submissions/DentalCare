@@ -85,7 +85,7 @@ The secondary font is Roboto and this is used as a clean alternative to Noto whi
 
 #### Wireframes
 
-Wireframe were created using Balsamiq as part of the planning process.
+Wireframes were created using Balsamiq as part of the planning process.
 
 Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 
@@ -100,15 +100,39 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 
 * HTML
 * CSS
+* Bootstrap
 
 ## Testing
 
 ## Deployment
 
-## Credit
+## Credits
+
+### Media
+
+#### Icons
+
+* [House](https://fontawesome.com/icons/home?style=solid), [Tooth](https://fontawesome.com/icons/tooth?style=solid), [Comments](https://fontawesome.com/icons/comments?style=regular) and [Telephone](https://fontawesome.com/icons/phone?style=solid) icons all sourced from [Font Awesome](https://fontawesome.com/).
+* Social Media icons for [Facebook](https://fontawesome.com/icons/facebook?style=brands), [Twitter](https://fontawesome.com/icons/twitter?style=brands) and [YouTube](https://fontawesome.com/icons/youtube?style=brands) all sourced from [Font Awesome](https://fontawesome.com/).
+
+#### Images
+
+All images sourced from [PX Fuel](https://www.pxfuel.com/)
+* [Dentist.jpg](https://www.pxfuel.com/en/free-photo-oiviq)
+* [GeneralDentistry.jpg](https://www.pxfuel.com/en/free-photo-jrquy)
+* [SpecialistDentistry.jpg](https://www.pxfuel.com/en/free-photo-osxgt)
+* [TeethWhite.jpg](https://www.pxfuel.com/en/free-photo-ovtgf)
+* [Smile1.jpg](https://www.pxfuel.com/en/free-photo-jvyxv)
+* [Smile2.jpg](https://www.pxfuel.com/en/free-photo-jqgpd)
+* [Smile3.jpg](https://www.pxfuel.com/en/free-photo-jmbnf)
+* [contact.jpg](https://www.pxfuel.com/en/free-photo-qlldn)
+
+#### Colours
+
+Brand colours for social media (Facebook,Twitter and YouTube) mouseover effects were obtained from [US Brand Colors](https://usbrandcolors.com/)
 
 ### Content
 
-### Media
+Grey sub-heading divider code was obtained from [Codepen.io](https://codepen.io/scottzirkel/pen/yNxNME)
 
 ### Acknowledgements
