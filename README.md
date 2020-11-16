@@ -94,13 +94,21 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 
 ### Existing Features
 
+- Main Page: Gives an overview of the Dental Practice a short explanation of each section of the site.
+- Services Page: Highlights the 3 different type of service offered by the practice and the treatment offered within each service.
+- Testimonials Page: Provides an account from recent customers of the Dental Practice
+- Contact Us Page: Enables users of the site to get in touch with the Practice requesting an appointment or further information.
+
 ### Features Left to Implement
+
+- Services Page: Modal for each service allowing for detailed expansion on services offered.
+
 
 ## Technologies Used
 
 * HTML
 * CSS
-* Bootstrap
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Testing
 
@@ -131,8 +139,9 @@ All images sourced from [PX Fuel](https://www.pxfuel.com/)
 
 Brand colours for social media (Facebook,Twitter and YouTube) mouseover effects were obtained from [US Brand Colors](https://usbrandcolors.com/)
 
-### Content
+#### Content
 
+[Hover.css](https://ianlunn.github.io/Hover/) Used for Link and Button sweep effect.
 Grey sub-heading divider code was obtained from [Codepen.io](https://codepen.io/scottzirkel/pen/yNxNME)
 
 ### Acknowledgements
