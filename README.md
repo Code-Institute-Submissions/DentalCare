@@ -148,6 +148,11 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 9. Provide a fast remote way of requesting an appointment either from home or on the go.
     1. Contact Us page provided and fully responsive across all mobile devices tested in Chrome Browser.
 
+### Bugs
+
+1. Significant whitespace found beneath footer when viewing on iPad Project
+- Resolution added in min-height value to css
+
 
 ## Deployment
 
