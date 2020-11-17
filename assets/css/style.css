@@ -7,10 +7,6 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700");
 
-html {
-  min-height: 100vh;
-}
-
 html,body
 {
     width: 100%;
@@ -18,6 +14,10 @@ html,body
     margin: 0px;
     padding: 0px;
     overflow-x: hidden; 
+}
+
+html {
+  min-height: 100vh;
 }
 
 body {
