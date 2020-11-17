@@ -52,7 +52,7 @@ DentalCare there is aimed at to main audiences: New and/or Existing Customers.
 3. Present a depth of available services comprehensive enought of to address short, medium and long term needs from a dental practice.
 4. Be consistent with visual feedback across the site indicating mouseover/cursor behaviour.
 5. Make sure icons that are matched well to site specific pages.
-6. Provide reassurance that they are making the right choice in leaving contact details in order to join by reviewing tetsimonials from existing customers.
+6. Provide reassurance that they are making the right choice in leaving contact details in order to join by reviewing testimonials from existing customers.
 7. Be professional in my presentation of information.
 
 #### As well as the above, for existing customers I am aiming to:
@@ -112,7 +112,41 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 
 ## Testing
 
-* 
+* V3C CSS validation
+* W3C Markup validation
+
+### User Stories Testing from UX section
+
+1. Create a welcoming site with an initial visual appeal with immediate recognition that they would be able to find what they are looking for.
+    1. Front Page displays information clearly and has a short expansion of menu items below picture.
+    2. Navigation bar that is always at the top on mobile and desktop to allow them to easily vaigate between pages.
+
+2. Have visual cues that align well with ease of site navigation.
+    1. Menu items are darker when on the active page.
+    2. Visual effect created for site links and submit button.
+    3. Social media hover effect for social media links with their corresponding brand colours.
+
+3. Present a depth of available services comprehensive enought of to address short, medium and long term needs from a dental practice.
+    1. Services page breaks down dental services into 3 categories and gives detail on treatments available for each category.
+
+4. Be consistent with visual feedback across the site indicating mouseover/cursor behaviour.
+    1. Clickable links and the submit button on contact us page display the same visual cue of the curved bar filling up on mouseover/click.
+
+5. Make sure icons that are matched well to site specific pages.
+    1. Icons next to menu items and at the top of page sections have a clear visual association to their corresponding pages.
+
+6. Provide reassurance that they are making the right choice in leaving contact details in order to join by reviewing testimonials from existing customers.
+    1. Testimonials section given it's own page and highlighting recent customer reviews to enhace customer confidence.
+
+7. Be professional in my presentation of information.
+    1. Consise information presented in a clean and consistent manner across the site.
+
+8. Quickly inform them of services available.
+    1. Ability to navigate to services section both in navigation bar at the top and on main page if user scrolls down.
+
+9. Provide a fast remote way of requesting an appointment either from home or on the go.
+    1. Contact Us page provided and fully responsive across all mobile devices tested in Chrome Browser.
+
 
 ## Deployment
 
