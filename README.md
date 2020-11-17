@@ -114,6 +114,7 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 
 * V3C CSS validation
 * W3C Markup validation
+* Lighthouse (ChromeDevtools)
 
 ### User Stories Testing from UX section
 
