@@ -114,6 +114,46 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 
 ## Deployment
 
+This project was developed using the GitPod IDE, committed to git and pished to GItHub using the built in function within GitPod.
+
+To deploy this page to GitHub Pages from it's GitHub repository, the following steps were taken:
+
+1. Log into GitHub.
+2. From the list of repositories on the screen, select SamiIshmael/DentalCare.
+3. From the menu items near the top of the page, select Settings.
+4. Scroll down to the Github Pages section.
+5. Under Source click the drop-down menu labelled None and select Master Branch.
+6. On selection Master Branch the page is automatically refreshed, the website is now deployed.
+7. Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
+
+At the time of submitting this Milestone project the Development Branch and Master Branch are identical.
+
+### How to run this project locally
+
+To clone this project into Gitpod you will need:
+
+1. A GitHub account. [Create a GitHub account here](https://github.com/).
+2. Use the Chrome browser.
+
+Then follow these steps:
+
+1. Install the [Gitpod Browser Extensions for Chrome](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki?hl=en).
+2. After installation, restart the browser.
+3. Log into Gitpod with your gitpod account.
+4. Navigate to the [Project GitHub repository](https://github.com/SamiIshmael/DentalCare).
+5. Click the green "Gitpod" button in the top right corner of the repository.
+6. This will trigger a new gitpod workspace to be created from the code in github where you can work locally.
+
+
+To clone this project from Github:
+
+1. Follow this link tot he [Project GitHub repository](https://github.com/SamiIshmael/DentalCare).
+2. Using the right hand menu click the Code drop-down and select either "Clone" or "Download".
+3. Selecting the Clone HTTPs section, copy the clone URL for the repository.
+4. In your local IDE open Git Bash.
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+
 ## Credits
 
 ### Media
