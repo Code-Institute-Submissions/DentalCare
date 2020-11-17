@@ -112,6 +112,8 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 
 ## Testing
 
+* 
+
 ## Deployment
 
 This project was developed using the GitPod IDE, committed to git and pished to GItHub using the built in function within GitPod.
@@ -182,6 +184,7 @@ Brand colours for social media (Facebook,Twitter and YouTube) mouseover effects 
 #### Content
 
 * [Hover.css](https://ianlunn.github.io/Hover/) Used for Link and Button sweep effect.
-* Grey sub-heading divider code was obtained from [Codepen.io](https://codepen.io/scottzirkel/pen/yNxNME)
+* Grey sub-heading divider code was obtained from [Codepen.io](https://codepen.io/scottzirkel/pen/yNxNME).
+* [Autoprefixer](https://autoprefixer.github.io/) was used for CSS.
 
 ### Acknowledgements
