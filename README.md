@@ -124,13 +124,13 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.pdf)
 
 ### Test-Case: Web Browsers
 
-The website has tested on desktops using the following web browsers:<br />
+This website has tested on desktops using the following web browsers:<br />
 * Google Chrome
 * Firefox
 * Microsoft Edge
 * Safari
 
-The desktop resolutions that have been tested are follows:<br />
+The desktop resolutions that have been tested are as follows:<br />
 * 1920 x 1080
 * 1680 x 1050
 * 1600 x 1050
@@ -146,6 +146,34 @@ The desktop resolutions that have been tested are follows:<br />
 * 1152 x 864
 * 1152 x 720
 * 1024 x 768
+
+This website has also been tested for mobile device responsiveness using **Chrome Developer Tools** which simulate mobile device behavoiur within Google Chrome.<br />
+The mobile devices and resolutions tested are as follows:
+* Moto G4 - Resolution: 360 x 640 (portrait)
+* Moto G4 - Resolution: 640 x 360 (landscape)
+* Galaxy S5 - Resolution: 360 x 640 (portrait)
+* Galaxy S5 - Resolution: 640 x 360 (landscape)
+* Pixel 2 - Resolution: 411 x 731 (portrait)
+* Pixel 2 - Resolution: 731 x 411 (landscape)
+* Pixel 2 XL - Resolution: 411 x 823 (portrait)
+* Pixel 2 XL - Resolution: 823 x 411 (landscape)
+* iPhone 5/SE - Resolution: 320 x 568 (portrait)
+* iPhone 5/SE - Resolution: 568 x 320 (landscape)
+* iPhone 6/7/8 - Resolution: 375 x 667 (portrait)
+* iPhone 6/7/8 - Resolution: 667 x 375 (landscape)
+* iPhone 6/7/8 Plus - Resolution: 414 x 736 (portrait)
+* iPhone 6/7/8 Plus - Resolution: 736 x 414 (landscape)
+* iPhone X - Resolution: 375 x 812 (portrait)
+* iPhone X - Resolution: 812 x 735 (landscape)
+* iPad - Resolution: 768 x 1024 (portrait)
+* iPad - Resolution: 1024 x 768 (landscape)
+* iPad Pro - Resolution: 1024 x 1366 (portrait)
+* iPad Pro - Resolution: 1366 x 1024 (landscape)
+* Surface Duo - Resolution: 540 x 720 (portrait)
+* Surface Dup - Resolution: 720 x 540 (landscape)
+* Galaxy Fold - Resolution: 280 x 653 (portrait)
+* Galaxy Fold - Resolution: 653 x 280 (landscape)
+
 
 ### Features
 
