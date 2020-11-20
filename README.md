@@ -164,19 +164,19 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 #### As an admin user I would:
 
 1. Want the site to address the business goals.
- 1. Colour scheme selected to be consistent with business with a healthcare setting.
- 2. Site details services and testimonials both with links to contact us form requesting the customer to get in touch.
- 3. Contact us form does not allow submission until contact details are supplied i.e. Name, Email and Phone Number allowing the business to get back in touch with the customer.
- 4. Site coded in HTML and CSS and Bootstrap framework used to make the site fully responsive with mobile-first design philosophy.
- 5. Site tested for it's responsiveness in Chrome Browser across mobile devices listed and for its responsiveness at varying desktop resolutions.
- 6. Custom CSS code added to customise content from Bootstrap e.g. Submit Button.
+    1. Colour scheme selected to be consistent with business with a healthcare setting.
+    2. Site details services and testimonials both with links to contact us form requesting the customer to get in touch.
+    3. Contact us form does not allow submission until contact details are supplied i.e. Name, Email and Phone Number allowing the business to get back in touch with the customer.
+    4. Site coded in HTML and CSS and Bootstrap framework used to make the site fully responsive with mobile-first design philosophy.
+    5. Site tested for it's responsiveness in Chrome Browser across mobile devices listed and for its responsiveness at varying desktop resolutions.
+    6. Custom CSS code added to customise content from Bootstrap e.g. Submit Button.
 2. Need to easily redevelop the site should any individual section needs updating.
- 1. Main sections HTML and CSS separated by commented code.
+    1. Main sections HTML and CSS separated by commented code.
 3. Code that was easy to read and understand.
- 1. HTML and CSS used standard markup and syntax.
- 2. HTML and CSS has been arranged using **Alt+Shift+F**
+    1. HTML and CSS used standard markup and syntax.
+    2. HTML and CSS has been arranged using **Alt+Shift+F**
 3. Be able to share the repository for collaborative purposes.
- 1. Detailed in deployment section.
+    1. Detailed in deployment section.
 
 ### Bugs
 
