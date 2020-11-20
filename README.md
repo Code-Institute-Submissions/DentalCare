@@ -192,9 +192,10 @@ The mobile devices and resolutions tested are as follows:
 7. When you click the Dental Care link this should take you to index.html the Main/Landing page.
 8. When opening the website in mobile view e.g. on an iPhone X the navigation menu will show as a drop down menu with the above links in order from top to bottom.
 9. While scrolling down the page on desktop or mobile devices the navigation bar should always appear at the top of the screen infront of any text or images.
+10. While on an active page the navigation menu link corresponding to the current active page should appear slightly darker than the others.
 
 ### Test-Case: Main Page
-1. When viewing the main page the navigtion menu should appear at the top.
+1. When viewing the main page the navigation menu should appear at the top.
 2. The hero image of the dentist theatre should be the next item displayed on the page.
 3. Beneath the image there should be a grey fade in and out sub heading saying "About Us".
 4. Beneath the first sub heading should be a short about us section.
@@ -212,6 +213,24 @@ The mobile devices and resolutions tested are as follows:
 16. When using mobile devices the **Find out more** links should auto fill with the same hover behaviour.
 17. At the bottom of the Main page should be the **Footer**.
 
+### Test-Case: Footer
+
+1. The footer should appear at the bottom of every page.
+2. The footer should appear starting with a relatively thin border across the top of a larger grey box.
+3. The border should match the colour of the navigation bar.
+4. Inside the footer there should be 3 sections entitled; **Contact**, **Address** and **Links**.
+5. On the desktop resolutions tested these should appear all on the same row.
+6. On mobile devices (smart phones not iPad or iPad Pro) these should appear stacked in the order listed top to bottom.
+7. Beneath the contact sub-heading there should be a centre aligned message asking to get in touch with a telephone number listed.
+8. Beneath the address sub-heading there should be a centre aligned address for the dental practice.
+9. Beneath the links sub-heading there should be three centre aligned social media links to **Facebook**, **Twitter** and **YouTube**.
+10. When you click the Facebook link this should take you to the main/home page of Facebook (as there is no Facebook site for the dental practice) in a new browser tab.
+11. When you click the Twitter link this should take you to the main/home page of Twitter (as there is no Twitter site for the dental practice) in a new browser tab.
+12. When you click the YouTube link this should take you to the main/home page of YouTube (as there is no YouTube site for the dental practice) in a new browser tab.
+13. On desktops/laptops when you use the cursor to hover over the Facebook link the link should turn 'Facebook Blue'.
+14. On desktops/laptops when you use the cursor to hover over the Twitter link the link should turn 'Twitter Blue'.
+15. On desktops/laptops when you use the cursor to hover over the YouTube link the link should turn 'YouTube Red'.
+16. On mobile devices this colour change effect is displayed when you click the link.
 
 ### Features
 
