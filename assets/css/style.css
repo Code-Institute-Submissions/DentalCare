@@ -235,6 +235,10 @@ section.container-fluid {
    position:relative;
 }
 
+button.btn.btn-outline-secondary.submit-button.hvr-sweep-to-right {
+ background-color: #fff;
+}
+
 /*-------------------- Hover.css ---*/
 
 a.hvr-sweep-to-right:hover {

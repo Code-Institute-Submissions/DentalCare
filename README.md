@@ -39,7 +39,9 @@ DentalCare there is aimed at to main audiences: New and/or Existing Customers.
 #### Developer and Business Goals
 
 - Development of a site that is visually consistent with customer expecations of a Dental/Clinical setting.
+- Encourage prospective and existing customers to engage with the business.
 - Display of ability to build a site using HTML, CSS & Bootstrap.
+- Ensure that site is fully responsive using the mobile-first design philosophy.
 - Customising technologies used to give site a unique feel.
 
 
@@ -52,6 +54,13 @@ DentalCare there is aimed at to main audiences: New and/or Existing Customers.
 3. Want to be able to view the site across multiple devices e.g. while not at home on desktop or laptop.
 4. Like to review any existing customer feedback.
 5. Want to contact dental care for any business related enquiries.
+
+### As an admin user I would:
+
+1. Want the site to address the business goals.
+2. Need to easily redevelop the site should any individual section need updating.
+3. Code that was easy to read and understand.
+3. Be able to share the repository for collaborative purposes.
 
 ### Design Choices
 
@@ -101,15 +110,26 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 
 ## Technologies Used
 
-* HTML
-* CSS
-* [Bootstrap](https://getbootstrap.com/)
+* HTML5 - A markup language used to organise and define the content to be displayed.
+* CSS3 - Style sheet language use to style the presentation of content detailed in the markup language.
+* [Bootstrap](https://getbootstrap.com/) - A CSS framework use to develop fully responsive mobile-first site.
 
 ## Testing
 
-* V3C CSS validation
-* W3C Markup validation
-* Lighthouse (ChromeDevtools)
+### Features
+
+* Navigation bar is collapsable across smaller devices.
+* Navigation bar expands correctly and navigation links work.
+* Navigation bar is stuck to the top when scroll down on all pages.
+* All links (navigation, body text and social media) work.
+* Hover effect displays correctly in body text links and contact us form.
+
+
+### Validation
+
+* W3C Markup validation - No errors found.
+* V3C CSS validation - No errors found.
+* Lighthouse (ChromeDevtools).
 
 ### User Stories Testing from UX section
 
@@ -180,6 +200,7 @@ Then follow these steps:
 4. Navigate to the [Project GitHub repository](https://github.com/SamiIshmael/DentalCare).
 5. Click the green "Gitpod" button in the top right corner of the repository.
 6. This will trigger a new gitpod workspace to be created from the code in github where you can work locally.
+7. To access the webserver type `python3 -m http.server` in the console.
 
 
 To clone this project from Github:
@@ -190,6 +211,7 @@ To clone this project from Github:
 4. In your local IDE open Git Bash.
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type `git clone`, and then paste the URL you copied in Step 3.
+7. To access the webserver type `python3 -m http.server` in the console.
 
 ## Credits
 
