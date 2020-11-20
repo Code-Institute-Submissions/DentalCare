@@ -117,7 +117,7 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.pdf)
 
 * HTML5 - A markup language used to organise and define the content to be displayed.
 * CSS3 - Style sheet language use to style the presentation of content detailed in the markup language.
-* [Bootstrap](https://getbootstrap.com/) - A CSS framework use to develop fully responsive mobile-first site.
+* [Bootstrap](https://getbootstrap.com/) - A CSS framework used to a develop fully responsive site using a mobile-first design philosophy.
 
 
 ## Testing
@@ -230,7 +230,7 @@ The mobile devices and resolutions tested are as follows:
 
 ### Test-Case: Services Page
 1. The services page should appear with the navigation bar across the top.
-2. The first item on the services page should be the Services heading with its corresponding tooth icon on the left hand side.
+2. The next item on the services page should be the Services heading with its corresponding tooth icon on the left hand side.
 3. Beneath the heading you should see a short introduction to the services.
 4. Below the introduction there should be a fade in fade out separator with "Details" in the middle.
 5. Next on the page there should be 3 sub-sections which are; **General Dentistry**, **Specialist Dentistry** and **Hygiene & Teeth Whitening**.
@@ -249,7 +249,7 @@ The mobile devices and resolutions tested are as follows:
 
 ### Test-Case: Testimonials Page
 1. The testimonials page should appear with the navigation bar across the top.
-2. The first item on the testimonials page should be the Testimonialsheading with its corresponding speech bubble icon on the left hand side.
+2. The next item on the testimonials page should be the Testimonials heading with its corresponding speech bubble icon on the left hand side.
 3. Beneath the heading you should see a short introduction to the testimonials.
 4. Below the introduction there should be a fade in fade out separator with "Details" in the middle.
 5. The customer images should appear as the next items on left to right (on desktop) **Sarah Cooper**, **Martin Hughes** and **Molly Jameson**.
@@ -262,6 +262,34 @@ The mobile devices and resolutions tested are as follows:
 12. Clicking this link entitled "Services" should take you to the  **Services** page.
 13. This link should also display the previously mentioned hover behaviour for desktops and mobile devices.
 14. At the bottom of the Services page should be the footer.
+
+### Test-Case: Contact Us Page
+1. The contact us page should appear with the navigation bar across the top.
+2. The next item on the on the contact us pahe should be Contact Us heading with its corresponding speech telephone on the left hand side.
+3. Beneath the heading you should see a short introduction requesting the person visiting the site to complete the form.
+4. Below the introduction there should be a fade in fade out separator with "Please complete all details" in the middle.
+5. Beneath the separator should be a communications image.
+6. The form to complete should be beneath the image.
+7. The form should have 4 sections, which are:
+    1. Name: - This should have placeholder text that reads:
+        >"First Name & Surname*" 
+    2. Email: - This should have placeholder text that reads:
+        >"Your Email Address*"
+    3. Telephone: - This should have placeholder text that reads:
+        >"Your Phone Number*"
+    4. Enquiry: - This should have placeholder text that reads:
+        >"For appointment requests please state Date & Time (Weekdays only).<br />Please allow 14 days for all appointment requests.*"
+8. The form behaviour should occur as follows:
+    1. If you click the submit button on the form without filling in any details you will get a notification asking you fill the **Name:** field.
+    2. If you fill the name field and click the submit button and leave all other fields blank you will get a notification asking you to fill the **Email:** field.
+    3. If you make an entry into the email field with no "@" symbol and click the submit button the form will prompt you to include an "@" in the email address.
+    4. If you make an entry into the email field e.g. "Qwer@" and click the submit button the form will prompt you to enter the part of the email address following the "@".
+    5. If you complete the **Name:** and **Email:** correctly and click the submit button the form will prompt you to complete the **Telephone:** field.
+    6. If you compplete the **Name:** and **Email:** and **Telephone:** fields and click the submit button the form will submit and take you to a blank Contact Us page.
+    7. The Enquiry should should be prepopulated with instruction but it is not required for form submission.
+9. Beneath the enquiry free text box should be the submit button.
+10. The submit button should display the same hover behaviour as previously mentioned for desktop and mobile devices.
+11. The footer should appear at the bottom of the page.
 
 ### Features
 
