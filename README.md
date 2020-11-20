@@ -45,21 +45,13 @@ DentalCare there is aimed at to main audiences: New and/or Existing Customers.
 
 ### User stories
 
-#### For new customers I am aiming to:
+#### As a visiting customer I would:
 
-1. Create a welcoming site with an initial visual appeal with immediate recognition that they would be able to find what they are looking for.
-2. Have visual cues that align well with ease of site navigation.
-3. Present a depth of available services comprehensive enought of to address short, medium and long term needs from a dental practice.
-4. Be consistent with visual feedback across the site indicating mouseover/cursor behaviour.
-5. Make sure icons that are matched well to site specific pages.
-6. Provide reassurance that they are making the right choice in leaving contact details in order to join by reviewing testimonials from existing customers.
-7. Be professional in my presentation of information.
-
-#### As well as the above, for existing customers I am aiming to:
-
-1. Quickly inform them of services available.
-2. Provide a fast remote way of requesting an appointment either from home or on the go.
-
+1. Want to be able to nagivate through the website intuitively.
+2. Need to be able to quickly review the dental services available to see if they are appropriate to my needs.
+3. Want to be able to view the site across multiple devices e.g. while not at home on desktop or laptop.
+4. Like to review any existing customer feedback.
+5. Want to contact dental care for any business related enquiries.
 
 ### Design Choices
 
@@ -67,9 +59,9 @@ The overall feel of the site is one designed to present both professionally and 
 
 #### Fonts
 
-The main font used is Noto Sans MS this font family was chosen for its readability and friendlyness where UIs are concerned.
+The main font used is Roboto this font family was chosen for its readability across desktop and mobile devices.
 
-The secondary font is Roboto and this is used as a clean alternative to Noto which shares the same properties of readability.
+The secondary font is sans serif and this is used as a generic font where Roboto is not available.
 
 #### Icons 
 
@@ -94,10 +86,13 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 
 ### Existing Features
 
-- Main Page: Gives an overview of the Dental Practice a short explanation of each section of the site.
-- Services Page: Highlights the 3 different type of service offered by the practice and the treatment offered within each service.
-- Testimonials Page: Provides an account from recent customers of the Dental Practice
-- Contact Us Page: Enables users of the site to get in touch with the Practice requesting an appointment or further information.
+- Navigation Bar: Collapsable for use across devices of smaller screen sizes i.e. smart phones.
+- Navigation Bar: **Sticky** to remain at the top of the page when scrolling down through the site.
+- Main Page: About us section with quick overview of the other pages on the site.
+- Services Page: Highlighting the types of dental services available, with links to testimonials and contact us page.
+- Testimonials Page: Highlighting recent customer reviews, with links to services and contact us page.
+- Contact Us Page: Form fillable contact page allowing customers to get in touch while leaving contact details.
+- Footer: Full contact details on footer with links to respective social media sites.
 
 ### Features Left to Implement
 
