@@ -122,9 +122,34 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.pdf)
 
 ## Testing
 
+### Test-Case: Web Browsers
+
+The website has tested on desktops using the following web browsers:<br />
+* Google Chrome
+* Firefox
+* Microsoft Edge
+* Safari
+
+The desktop resolutions that have been tested are follows:<br />
+* 1920 x 1080
+* 1680 x 1050
+* 1600 x 1050
+* 1600 x 900
+* 1440 x 900
+* 1366 x 768
+* 1360 x 768
+* 1280 x 960
+* 1280 x 800
+* 1280 x 768
+* 1280 x 720
+* 1176 x 664
+* 1152 x 864
+* 1152 x 720
+* 1024 x 768
+
 ### Features
 
-* The navigation bar is collapsible across smaller devices.
+* The navigation bar is collapsable across smaller devices.
 * Navigation bar expands correctly and navigation links work.
 * Navigation bar is stuck to the top when you scroll down on all pages.
 * All links (navigation, body text and social media) work.
@@ -188,8 +213,11 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.pdf)
 
 ### Bugs
 
-1. Significant white space found beneath footer when viewing on iPad Project
-- Media query added in CSS specifically for iPad Pro resolutions to attached the footer with an absolute position to the bottom of each page.
+1. Significant white space found beneath footer when viewing on iPad Project.
+    1. Media query added in CSS specifically for the iPad Pro portrait resolution to attach the footer with an absolute position to the bottom of each page.
+
+2. Footer was overlapping body content when viewed at responsive resolutions in Chrome.
+    1. Added media query for desktop resolutions starting at 1024 pixels.
 
 
 ## Deployment
@@ -199,7 +227,7 @@ This project was developed using the GitPod IDE, committed to git and pushed to 
 To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
 
 1. Log into GitHub.
-2. From the list of repositories on the screen, select SamiIshmael/DentalCare.
+2. From the list of repositories on the screen, select **SamiIshmael/DentalCare**.
 3. From the menu items near the top of the page, select Settings.
 4. Scroll down to the Github Pages section.
 5. Under Source click the drop-down menu labelled None and select Master Branch.
@@ -229,19 +257,6 @@ Then follow these steps:
 10. A blue button should appear to click: **Make Public**.
 11. Another blue button should appear to click: **Open Browser**.
 
-To clone this project from GitHub:
-
-1. This project uses the **Code Institute Student Template** found [here](https://github.com/Code-Institute-Org/gitpod-full-template).
-2. Click **Use this template** and give your repository a name.
-3. Follow this link tot he [Project GitHub repository](https://github.com/SamiIshmael/DentalCare).
-4. Using the right hand menu, click the Code drop-down and select either "Clone" or "Download".
-5. Selecting the Clone HTTPs section, copy the clone URL for the repository.
-6. In your local IDE open Git Bash.
-7. Change the current working directory to the location where you want the cloned directory to be made.
-8. Type `git clone`, and then paste the URL you copied in Step 3.
-9. To run a front-end (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:<br /> `python3 -m http.server`<br />
-10. A blue button should appear to click: **Make Public**.
-11. Another blue button should appear to click: **Open Browser**.
 
 ## Credits
 
