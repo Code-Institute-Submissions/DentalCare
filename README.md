@@ -136,7 +136,7 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 ### Validation
 
 * W3C Markup validation - No errors found.
-* V3C CSS validation - No errors found.
+* W3C CSS validation - No errors found.
 * Lighthouse (ChromeDevtools).
 
 ### User Stories Testing from UX section
