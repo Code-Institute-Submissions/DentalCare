@@ -273,6 +273,11 @@ The mobile devices and resolutions tested are as follows:
 13. This link should also display the previously mentioned hover behaviour for desktops and mobile devices.
 14. At the bottom of the Services page should be the footer.
 
+![Desktop Image of Upper Testimonials Page](/assets/images/TPD1.JPG)
+![Desktop Image of Lower Testimonials Page](/assets/images/TPD2.JPG)
+![Mobile Image of Upper Testimonials Page](/assets/images/TPM1.JPG)
+![Mobile Image of Lower Testimonials Page](/assets/images/TPM2.JPG)
+
 ### Test-Case: Contact Us Page
 1. The contact us page should appear with the navigation bar across the top.
 2. The next item on the on the contact us pahe should be Contact Us heading with its corresponding speech telephone on the left hand side.
