@@ -212,21 +212,28 @@ Then follow these steps:
 1. Install the [Gitpod Browser Extensions for Chrome](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki?hl=en).
 2. After installation, restart the browser.
 3. Log into Gitpod with your gitpod account.
-4. Navigate to the [Project GitHub repository](https://github.com/SamiIshmael/DentalCare).
-5. Click the green "Gitpod" button in the top right corner of the repository.
-6. This will trigger a new gitpod workspace to be created from the code in github where you can work locally.
-7. To access the webserver type `python3 -m http.server` in the console.
-
+4. This project uses the **Code Institute Student Template** found [here](https://github.com/Code-Institute-Org/gitpod-full-template).
+5. Click **Use this template** and give your repository a name.
+6. Navigate to the [Project GitHub repository](https://github.com/SamiIshmael/DentalCare).
+7. Click the green "Gitpod" button in the top right corner of the repository.
+8. This will trigger a new gitpod workspace to be created from the code in github where you can work locally.
+9. To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:<br /> `python3 -m http.server`<br />
+10. A blue button should appear to click: Make Public,
+11. Another blue button should appear to click: Open Browser.
 
 To clone this project from Github:
 
-1. Follow this link tot he [Project GitHub repository](https://github.com/SamiIshmael/DentalCare).
-2. Using the right hand menu click the Code drop-down and select either "Clone" or "Download".
-3. Selecting the Clone HTTPs section, copy the clone URL for the repository.
-4. In your local IDE open Git Bash.
-5. Change the current working directory to the location where you want the cloned directory to be made.
-6. Type `git clone`, and then paste the URL you copied in Step 3.
-7. To access the webserver type `python3 -m http.server` in the console.
+1. This project uses the **Code Institute Student Template** found [here](https://github.com/Code-Institute-Org/gitpod-full-template).
+2. Click **Use this template** and give your repository a name.
+3. Follow this link tot he [Project GitHub repository](https://github.com/SamiIshmael/DentalCare).
+4. Using the right hand menu click the Code drop-down and select either "Clone" or "Download".
+5. Selecting the Clone HTTPs section, copy the clone URL for the repository.
+6. In your local IDE open Git Bash.
+7. Change the current working directory to the location where you want the cloned directory to be made.
+8. Type `git clone`, and then paste the URL you copied in Step 3.
+9. To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:<br /> `python3 -m http.server`<br />
+10. A blue button should appear to click: Make Public,
+11. Another blue button should appear to click: Open Browser.
 
 ## Credits
 
