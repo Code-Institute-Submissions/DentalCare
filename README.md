@@ -3,7 +3,7 @@
 ## Overview 
 
 This project is designed to highlight the services of a fictional Dental Practice.
-Using HTML & CSS the aim is provide an overview of the practice, the services on offer and testimonials from existing customers.
+Using HTML & CSS the aim is to provide an overview of the practice, the services on offer and testimonials from existing customers.
 The purpose of the web page is to attract new customers and provide an efficient website for existing customers to request new appointments.
 
 
@@ -11,8 +11,8 @@ The purpose of the web page is to attract new customers and provide an efficient
 
 ### Project Goals
 
-The main goal of DentalCare is to provide an informative and concise site for prospective customers who are looking for a reliable local dentist. The site is also designed to provide a way for existing customers to request an appointment for various dental services remotely.
-DentalCare there is aimed at to main audiences: New and/or Existing Customers.
+The main goal of Dental Care is to provide an informative and concise site for prospective customers who are looking for a reliable local dentist. The site is also designed to provide a way for existing customers to request an appointment for various dental services remotely.
+Dental Care there is aimed at two main audiences: New and/or Existing Customers.
 
 #### New Customer goals are:
 
@@ -24,45 +24,46 @@ DentalCare there is aimed at to main audiences: New and/or Existing Customers.
 
 #### Existing Customer goals are:
 
-- Site that is intuitive to navigate.
+- Have a site that is intuitive to navigate.
 - Quick review of existing services available.
 - Hassle free ability to request an appointment.
 
-#### DentalCare addresses these goals by:
+#### Dental Care addresses these goals by:
 
-- Following a clearly defined step-by-step design philosphy from initial concept right through to deployment.
+- Following a clearly defined step-by-step design philosophy from initial concept right through to deployment.
 - Having visual queues to site specific information.
 - Clear indication on highlighted/clickable links.
-- Information being presented in concise manner.
+- A professional site where information is being presented in a concise manner.
 - Uniform design across the site.
-- Site presented in a manner consisted with clinical feel.
+- Being a site that is presented in a manner consistant with a clinical/healthcare look and feel.
 
 #### Developer and Business Goals
 
-- Development of a site that is visually consistent with customer expecations of a Dental/Clinical setting.
+- Development of a site that is visually consistent with customer expectations of a Dental/Clinical setting.
 - Encourage prospective and existing customers to engage with the business.
 - Display of ability to build a site using HTML, CSS & Bootstrap.
-- Ensure that site is fully responsive using the mobile-first design philosophy.
-- Customising technologies used to give site a unique feel.
+- Ensure that the site is fully responsive using the mobile-first design philosophy.
+- Customising technologies used to give the site a unique feel.
 
 
 ### User stories
 
 #### As a visiting customer I would:
 
-1. Want to be able to nagivate through the website intuitively.
+1. Want to be able to navigate through the website intuitively.
 2. Need to be able to quickly review the dental services available to see if they are appropriate to my needs.
 3. Want to be able to view the site across multiple devices e.g. while not at home on desktop or laptop.
-4. Like to review any existing customer feedback.
-5. Want the site to be consistent with visual feedback across the site indicating mouseover/cursor behaviour.
-6. Want to contact dental care for any business related enquiries.
+4. Expect to have visual cues while navigating the site.
+5. Like to review any existing customer feedback.
+6. Want the site to be consistent with its visual feedback.
+7. Want to contact dental care for any business related enquiries.
 
-#### As an admin user I would:
+#### As an administrative user I would:
 
 1. Want the site to address the business goals.
 2. Need to easily redevelop the site should any individual section needs updating.
 3. Code that was easy to read and understand.
-3. Be able to share the repository for collaborative purposes.
+4. Be able to share the repository for collaborative purposes.
 
 ### Design Choices
 
@@ -76,11 +77,11 @@ The secondary font is sans serif and this is used as a generic font where Roboto
 
 #### Icons 
 
-- These icons used were for their relatability to the corresponding headings so they can be universally understood.
+- These icons were used for their relatability to the corresponding headings so they can be universally understood.
 
 #### Colours
 
-- The colours chosen are of an pale torqouise color on grey for the nav bar, text and links/buttons. These were chosen as they contrast well and are consistent with providing a clinical feeling.
+- The colours chosen are of a pale turqouise colour on grey for the navigation bar, text and links/buttons. These were chosen as they contrast well and are consistent with providing a clinical feeling.
 
 #### Styling
 
@@ -97,17 +98,18 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 
 ### Existing Features
 
-- Navigation Bar: Collapsable for use across devices of smaller screen sizes i.e. smart phones.
+- Navigation Bar: Collapsable for use across devices with smaller screen sizes i.e. smart phones.
 - Navigation Bar: **Sticky** to remain at the top of the page when scrolling down through the site.
 - Main Page: About us section with quick overview of the other pages on the site.
 - Services Page: Highlighting the types of dental services available, with links to testimonials and contact us page.
 - Testimonials Page: Highlighting recent customer reviews, with links to services and contact us page.
 - Contact Us Page: Form fillable contact page allowing customers to get in touch while leaving contact details.
+- Hover Effects: Provide visual cues to visitors of the site.
 - Footer: Fully responsive footer with full business contact details included as well as links to respective social media sites.
 
 ### Features Left to Implement
 
-- Services Page: Modal for each service allowing for detailed expansion on services offered.
+- Services Page: Modal for each service allowing for detailed expansion of services offered.
 
 
 ## Technologies Used
@@ -116,18 +118,19 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 * CSS3 - Style sheet language use to style the presentation of content detailed in the markup language.
 * [Bootstrap](https://getbootstrap.com/) - A CSS framework use to develop fully responsive mobile-first site.
 
+
 ## Testing
 
 ### Features
 
-* Navigation bar is collapsable across smaller devices.
+* The navigation bar is collapsible across smaller devices.
 * Navigation bar expands correctly and navigation links work.
-* Navigation bar is stuck to the top when scroll down on all pages.
+* Navigation bar is stuck to the top when you scroll down on all pages.
 * All links (navigation, body text and social media) work.
-* Hover effect displays correctly in body text links, contact us form and social media links.
+* Hover effects display correctly in body text links, contact us form and social media links.
 * Images correctly resize and stack correctly across smaller screen sizes.
-* Body text on Features Testimonials pages correctly stack across smaller screen sizes.
-* Footer correctly positioned at bottom of page and responsive across smaller screen sizes stacking in the correct order.
+* Body text on Features Testimonials pages correctly stacks across smaller screen sizes.
+* Footer correctly positioned at bottom of page and responsive across smaller screen sizes were stacked in the correct order.
 * Contact Us Form does not accept submission unless required details are inputted i.e. Name, Email and Contact Number, whereas free text area is optional.
 
 ### Validation
@@ -140,55 +143,59 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 
 #### As a visiting customer I would:
 
-1. Want to be able to nagivate through the website intuitively.
-    1. Website has navigation bar included with collapsable menu for smaller screen sizes.
+1. Want to be able to navigate through the website intuitively.
+    1. The Website has a navigation bar included with a collapsable menu for smaller screen sizes.
     2. Navigation menu has related icons which are also displayed on corresponding pages.
     3. Navigation bar sticks to top of screen when scrolling for ease of use.
     4. Home Page displays information clearly and has a short expansion of menu items below picture.
     5. Menu items are darker when on the active page.
-    6. Visual effect created for site links and submit button.
+    6. There is a visual effect created for site links and the submit button.
     7. Social media hover effect for social media links with their corresponding brand colours.
 2. Need to be able to quickly review the dental services available to see if they are appropriate to my needs.
-    1. Link to services page can be found on navigation bar and as left hand link on main page.
+    1. Link to services page can be found on the navigation bar and at left hand link on the main page.
     2. List of services displayed both broadly and with bullet pointed detail.
 3. Want to be able to view the site across multiple devices e.g. while not at home on desktop or laptop.
-    1. Site has been designed with a mobile-first design philosophy using Bootstrap alongsite the HTML and CSS.
-4. Like to review any existing customer feedback.
-    1. Testimonials section given it's own page and highlighting recent customer reviews to enhace customer confidence.
-5. Want the site to be consistent with visual feedback across the site indicating mouseover/cursor behaviour.
-    1. Clickable links and the submit button on contact us page display the same visual cue of the curved bar filling up on mouseover/click.
-    2. Spacing of images and white space consistent throughout the site across a range of devices.
-6. Want to contact dental care for any business related enquiries.
+    1. The site has been designed with a mobile-first design philosophy using Bootstrap alongside HTML and CSS.
+4. Expect to have visual cues while navigating the site.
+    1. Navigation menu selection is darker on the current active page.
+    2. Hover effects exist for links in the body of each page and social media sites.
+    3. Icons are representative of the feature/page they are aligned to.
+5. Like to review any existing customer feedback.
+    1. Testimonials section given its own page and highlighting recent customer reviews to enhance customer confidence.
+6. Want the site to be consistent with visual feedback.
+    1. Clickable links and the submit button on the **Contact Us** page display the same visual cue of the curved bar filling up on mouse hover/click.
+    2. The spacing of images and white space is consistent throughout the site across a range of devices.
+7. Want to contact dental care for any business related enquiries.
     1. Contact Us form on contact page provided and fully responsive across all mobile devices tested in Chrome Browser.
 
-#### As an admin user I would:
+#### As an administrative user I would:
 
 1. Want the site to address the business goals.
     1. Colour scheme selected to be consistent with business with a healthcare setting.
     2. Site details services and testimonials both with links to contact us form requesting the customer to get in touch.
-    3. Contact us form does not allow submission until contact details are supplied i.e. Name, Email and Phone Number allowing the business to get back in touch with the customer.
-    4. Site coded in HTML and CSS and Bootstrap framework used to make the site fully responsive with mobile-first design philosophy.
-    5. Site tested for it's responsiveness in Chrome Browser across mobile devices listed and for its responsiveness at varying desktop resolutions.
+    3. Contact us form does not allow submission until contact details are supplied, i.e. Name, Email and Phone Number allowing the business to get back in touch with the customer.
+    4. Site coded in HTML and CSS using the Bootstrap framework used to make the site fully responsive employing a mobile-first design philosophy.
+    5. The site jas been tested for its responsiveness in Chrome Browser across mobile devices listed and for its responsiveness at varying desktop resolutions.
     6. Custom CSS code added to customise content from Bootstrap e.g. Submit Button.
 2. Need to easily redevelop the site should any individual section needs updating.
-    1. Main sections HTML and CSS separated by commented code.
+    1. Main sections of HTML and CSS have been separated using comments which indicate the purpose/function of the code that follows.
 3. Code that was easy to read and understand.
     1. HTML and CSS used standard markup and syntax.
     2. HTML and CSS has been arranged using **Alt+Shift+F**
-3. Be able to share the repository for collaborative purposes.
+4. Be able to share the repository for collaborative purposes.
     1. Detailed in deployment section.
 
 ### Bugs
 
-1. Significant whitespace found beneath footer when viewing on iPad Project
-- Resolution added in min-height value to css
+1. Significant white space found beneath footer when viewing on iPad Project
+- Media query added in CSS specifically for iPad Pro resolutions to attached the footer with an absolute position to the bottom of each page.
 
 
 ## Deployment
 
-This project was developed using the GitPod IDE, committed to git and pished to GItHub using the built in function within GitPod.
+This project was developed using the GitPod IDE, committed to git and pushed to GitHub using the built in function within GitPod.
 
-To deploy this page to GitHub Pages from it's GitHub repository, the following steps were taken:
+To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
 
 1. Log into GitHub.
 2. From the list of repositories on the screen, select SamiIshmael/DentalCare.
@@ -217,23 +224,23 @@ Then follow these steps:
 6. Navigate to the [Project GitHub repository](https://github.com/SamiIshmael/DentalCare).
 7. Click the green "Gitpod" button in the top right corner of the repository.
 8. This will trigger a new gitpod workspace to be created from the code in github where you can work locally.
-9. To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:<br /> `python3 -m http.server`<br />
-10. A blue button should appear to click: Make Public,
-11. Another blue button should appear to click: Open Browser.
+9. To run a front-end (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:<br /> `python3 -m http.server`<br />
+10. A blue button should appear to click: **Make Public**.
+11. Another blue button should appear to click: **Open Browser**.
 
-To clone this project from Github:
+To clone this project from GitHub:
 
 1. This project uses the **Code Institute Student Template** found [here](https://github.com/Code-Institute-Org/gitpod-full-template).
 2. Click **Use this template** and give your repository a name.
 3. Follow this link tot he [Project GitHub repository](https://github.com/SamiIshmael/DentalCare).
-4. Using the right hand menu click the Code drop-down and select either "Clone" or "Download".
+4. Using the right hand menu, click the Code drop-down and select either "Clone" or "Download".
 5. Selecting the Clone HTTPs section, copy the clone URL for the repository.
 6. In your local IDE open Git Bash.
 7. Change the current working directory to the location where you want the cloned directory to be made.
 8. Type `git clone`, and then paste the URL you copied in Step 3.
-9. To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:<br /> `python3 -m http.server`<br />
-10. A blue button should appear to click: Make Public,
-11. Another blue button should appear to click: Open Browser.
+9. To run a front-end (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:<br /> `python3 -m http.server`<br />
+10. A blue button should appear to click: **Make Public**.
+11. Another blue button should appear to click: **Open Browser**.
 
 ## Credits
 
@@ -258,7 +265,7 @@ All images sourced from [PX Fuel](https://www.pxfuel.com/)
 
 #### Colours
 
-Brand colours for social media (Facebook,Twitter and YouTube) mouseover effects were obtained from [US Brand Colors](https://usbrandcolors.com/)
+Brand colours for social media (Facebook,Twitter and YouTube) hover effects were obtained from [US Brand Colors](https://usbrandcolors.com/)
 
 #### Content
 
