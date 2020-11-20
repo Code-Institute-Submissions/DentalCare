@@ -123,7 +123,6 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.pdf)
 ## Testing
 
 ### Test-Case: Web Browsers
-
 This website has been tested on desktops using the following web browsers:<br />
 * Google Chrome
 * Firefox
@@ -147,9 +146,7 @@ The desktop resolutions that have been tested are as follows:<br />
 * 1152 x 720
 * 1024 x 768
 
-
 ### Test-Case: Mobile Devices
-
 This website has also been tested for mobile device responsiveness using **Chrome Developer Tools** which simulate mobile device behaviour within Google Chrome.<br />
 The mobile devices and resolutions tested are as follows:
 * Moto G4 - Resolution: 360 x 640 (portrait)
@@ -214,7 +211,6 @@ The mobile devices and resolutions tested are as follows:
 17. At the bottom of the Main page should be the **Footer**.
 
 ### Test-Case: Footer
-
 1. The footer should appear at the bottom of every page.
 2. The footer should appear starting with a relatively thin border across the top of a larger grey box.
 3. The border should match the colour of the navigation bar.
@@ -231,6 +227,25 @@ The mobile devices and resolutions tested are as follows:
 14. On desktops/laptops when you use the cursor to hover over the Twitter link the link should turn 'Twitter Blue'.
 15. On desktops/laptops when you use the cursor to hover over the YouTube link the link should turn 'YouTube Red'.
 16. On mobile devices this colour change effect is displayed when you click the link.
+
+### Test-Case: Services Page
+1. The services page should appear with the navigation bar across the top.
+2. The first item on the services page should be the Services heading with its corresponding tooth icon on the left hand side.
+3. Beneath the heading you should see a short introduction to the services.
+4. Below the introduction there should be a fade in face out separator with "Details" in the middle.
+5. Next on the page there should be 3 sub-sections which are; **General Dentistry**, **Specialist Dentistry** and **Hygiene & Teeth Whitening**.
+6. These sub-sections have related images above the sub-headings.
+7. These sections appear in the same row on desktop devices and iPads and on smart phones they appear stacked in the order listed above top to bottom.
+8. Each sub-section should have a bullet pointed list detailing the specific treatments available for the type of service required.
+9. Beneath each of the bullet pointed lists there should be a link that says **Request an appointment**.
+10. Click any of the request an appointment links should take you to the **Contact Us** page.
+11. On desktops/laptops if you hover the cursor over the link it should fill using the same style listed on the main page.
+12. Clicking any of the links on mobile devices should display the effect as listed in point 16 of **Test-Case: Main Page**.
+13. A Testimonials separator should appear below the services sub-section.
+14. There should be a short message with a link to customer testimonials.
+15. Clicking this link should take you to the **Testimonials** page.
+16. This link should also display the previously mentioned hover behaviour for desktops and mobile devices.
+17. At the bottom of the Services page should be the footer.
 
 ### Features
 
