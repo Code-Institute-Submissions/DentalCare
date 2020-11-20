@@ -232,7 +232,7 @@ The mobile devices and resolutions tested are as follows:
 1. The services page should appear with the navigation bar across the top.
 2. The first item on the services page should be the Services heading with its corresponding tooth icon on the left hand side.
 3. Beneath the heading you should see a short introduction to the services.
-4. Below the introduction there should be a fade in face out separator with "Details" in the middle.
+4. Below the introduction there should be a fade in fade out separator with "Details" in the middle.
 5. Next on the page there should be 3 sub-sections which are; **General Dentistry**, **Specialist Dentistry** and **Hygiene & Teeth Whitening**.
 6. These sub-sections have related images above the sub-headings.
 7. These sections appear in the same row on desktop devices and iPads and on smart phones they appear stacked in the order listed above top to bottom.
@@ -241,11 +241,27 @@ The mobile devices and resolutions tested are as follows:
 10. Click any of the request an appointment links should take you to the **Contact Us** page.
 11. On desktops/laptops if you hover the cursor over the link it should fill using the same style listed on the main page.
 12. Clicking any of the links on mobile devices should display the effect as listed in point 16 of **Test-Case: Main Page**.
-13. A Testimonials separator should appear below the services sub-section.
+13. Below the services section there should be a fade in fade out separator with "Testimonials" in the middle.
 14. There should be a short message with a link to customer testimonials.
-15. Clicking this link should take you to the **Testimonials** page.
+15. Clicking this link entitled "Testimonials" should take you to the **Testimonials** page.
 16. This link should also display the previously mentioned hover behaviour for desktops and mobile devices.
 17. At the bottom of the Services page should be the footer.
+
+### Test-Case: Testimonials Page
+1. The testimonials page should appear with the navigation bar across the top.
+2. The first item on the testimonials page should be the Testimonialsheading with its corresponding speech bubble icon on the left hand side.
+3. Beneath the heading you should see a short introduction to the testimonials.
+4. Below the introduction there should be a fade in fade out separator with "Details" in the middle.
+5. The customer images should appear as the next items on left to right (on desktop) **Sarah Cooper**, **Martin Hughes** and **Molly Jameson**.
+6. Each image should the customers name, a quote and a date recieved below.
+7. The quote should be in speech marks.
+8. The date recieved should be in a smaller font and have the customers name next to it.
+9. On smart phones the sections for each customer appear stacked in the order listed above top to bottom.
+10. Below the testimonials there should be a fade in fade out separator with "Services" in the middle.
+11. There should be a short message with a link to the services page.
+12. Clicking this link entitled "Services" should take you to the  **Services** page.
+13. This link should also display the previously mentioned hover behaviour for desktops and mobile devices.
+14. At the bottom of the Services page should be the footer.
 
 ### Features
 
