@@ -529,3 +529,10 @@ footer.container-fluid {
     bottom: 0;
   }
 }
+
+@media only screen and (min-width: 1024px) {
+  footer.container-fluid {
+    position: relative;
+    bottom: 0;
+  }
+}
