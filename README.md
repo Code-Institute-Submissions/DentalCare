@@ -5,7 +5,7 @@
 This project is designed to highlight the services of a fictional Dental Practice.
 Using HTML & CSS the aim is to provide an overview of the practice, the services on offer and testimonials from existing customers.
 The purpose of the site is to attract new customers and provide an efficient way for existing customers to request new appointments, both by use of a fillable form.
-A link to the site can be found [here](https://samiishmael.github.io/DentalCare/).
+A link to the site can be found [here](https://samiishmael.github.io/DentalCare/){:target="_blank"}.
 
 
 ## UX 
@@ -124,7 +124,7 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.pdf)
 
 ### Test-Case: Web Browsers
 
-This website has tested on desktops using the following web browsers:<br />
+This website has been tested on desktops using the following web browsers:<br />
 * Google Chrome
 * Firefox
 * Microsoft Edge
@@ -147,7 +147,10 @@ The desktop resolutions that have been tested are as follows:<br />
 * 1152 x 720
 * 1024 x 768
 
-This website has also been tested for mobile device responsiveness using **Chrome Developer Tools** which simulate mobile device behavoiur within Google Chrome.<br />
+
+### Test-Case: Mobile Devices
+
+This website has also been tested for mobile device responsiveness using **Chrome Developer Tools** which simulate mobile device behaviour within Google Chrome.<br />
 The mobile devices and resolutions tested are as follows:
 * Moto G4 - Resolution: 360 x 640 (portrait)
 * Moto G4 - Resolution: 640 x 360 (landscape)
