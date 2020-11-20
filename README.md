@@ -148,7 +148,7 @@ The desktop resolutions that have been tested are as follows:<br />
 
 ### Test-Case: Mobile Devices
 This website has also been tested for mobile device responsiveness using **Chrome Developer Tools** which simulate mobile device behaviour within Google Chrome.<br />
-The mobile devices and resolutions tested are as follows:
+The mobile devices and resolutions that have been tested are as follows:
 * Moto G4 - Resolution: 360 x 640 (portrait)
 * Moto G4 - Resolution: 640 x 360 (landscape)
 * Galaxy S5 - Resolution: 360 x 640 (portrait)
