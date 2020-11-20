@@ -210,6 +210,11 @@ The mobile devices and resolutions tested are as follows:
 16. When using mobile devices the **Find out more** links should auto fill with the same hover behaviour.
 17. At the bottom of the Main page should be the **Footer**.
 
+![Desktop Image of Upper Main Page](/images/MPD1.JPG)
+![Desktop Image of Lower Main Page](/images/MPD2.JPG)
+![Mobile Image of Upper Main Page](/images/MPM1.JPG)
+![Mobile Image of Lower Main Page](/images/MPD2.JPG)
+
 ### Test-Case: Footer
 1. The footer should appear at the bottom of every page.
 2. The footer should appear starting with a relatively thin border across the top of a larger grey box.
