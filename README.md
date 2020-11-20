@@ -92,7 +92,7 @@ The secondary font is sans serif and this is used as a generic font where Roboto
 
 Wireframes were created using Balsamiq as part of the planning process.
 
-Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
+Link: [Wireframes](/assets/Wireframes/MilestoneProject1.pdf)
 
 
 ## Features 
