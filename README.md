@@ -252,6 +252,11 @@ The mobile devices and resolutions tested are as follows:
 16. This link should also display the previously mentioned hover behaviour for desktops and mobile devices.
 17. At the bottom of the Services page should be the footer.
 
+![Desktop Image of Upper Services Page](/assets/images/SPD1.JPG)
+![Desktop Image of Lower Services Page](/assets/images/SPD2.JPG)
+![Mobile Image of Upper Services Page](/assets/images/SPM1.JPG)
+![Mobile Image of Lower Services Page](/assets/images/SPM2.JPG)
+
 ### Test-Case: Testimonials Page
 1. The testimonials page should appear with the navigation bar across the top.
 2. The next item on the testimonials page should be the Testimonials heading with its corresponding speech bubble icon on the left hand side.
