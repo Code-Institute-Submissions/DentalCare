@@ -193,6 +193,26 @@ The mobile devices and resolutions tested are as follows:
 8. When opening the website in mobile view e.g. on an iPhone X the navigation menu will show as a drop down menu with the above links in order from top to bottom.
 9. While scrolling down the page on desktop or mobile devices the navigation bar should always appear at the top of the screen infront of any text or images.
 
+### Test-Case: Main Page
+1. When viewing the main page the navigtion menu should appear at the top.
+2. The hero image of the dentist theatre should be the next item displayed on the page.
+3. Beneath the image there should be a grey fade in and out sub heading saying "About Us".
+4. Beneath the first sub heading should be a short about us section.
+5. There should then be a grey fade in and out separator with no words.
+6. There should be three sections beneath the separator entitled; **Services**, **Testominials** and **Contact Us**.
+7. These sections appear in a continuous row on the desktop resolutions tested.
+8. These sections should stack in listed order top to bottom on mobile devices.
+9. The Services, Testimonials and Contact Us section headings should display the same icons as they do in the navigation bar.
+10. Each section should have a short sentence to give the section some context.
+11. Each section should also be accompanied by a **Find out more** link.
+12. When you click the **Find out more** link beneath the Services section this should take you to the Services page.
+13. When you click the **Find out more** link beneath the Testimonials section this should take you to the Testimonials page.
+14. When you click the **Find out more** link beneath the Contact Us section this should take you to the Services page.
+15. When using a desktop/laptop device and you hover over each **Find out more** link you should get a hover effect with a fill that matches the colour of the navigation menu filling a white background.
+16. When using mobile devices the **Find out more** links should auto fill with the same hover behaviour.
+17. At the bottom of the Main page should be the **Footer**.
+
+
 ### Features
 
 * The navigation bar is collapsable across smaller devices.
