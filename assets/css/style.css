@@ -5,7 +5,7 @@
 * Browsers: last 4 version
 */
 
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700");
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 html,body
 {
@@ -17,7 +17,7 @@ html,body
 }
 
 body {
-  font-family: "Noto Sans JP", sans-serif;
+  font-family: 'Roboto', sans-serif;
   line-height: 1em;
 }
 
@@ -145,13 +145,14 @@ h2 span {
 
 p.about {
   margin-top: 10px;
+  margin-bottom: 0px;
   padding-right: 15%;
   padding-left: 15%;
   text-align: center;
 }
 
 p.section-overview {
-  margin-top: 10px;
+  margin: 10px 30px 10px 30px;
   margin-left: 60px;
 }
 
@@ -176,6 +177,11 @@ a.moreinfo {
   border-radius: 75px;
   margin: 0 10px 10px 0;
   font-size: 0.8em;
+}
+
+a.moreinfo.hvr-sweep-to-right {
+margin-right: 60px;
+margin-bottom: 60px;
 }
 
 .page-header p {
@@ -208,8 +214,20 @@ h6.general-sub {
   margin-right: 30px;
 }
 
+div.container {
+margin-bottom: 10px;
+}
+
+div.container.section-heading {
+margin-bottom: 0px;
+}
+
+div.container.complete {
+  margin-bottom: 10px;
+}
+
 div.container.contact {
-  margin-bottom: 20px;
+  margin-bottom: 60px;
 }
 
 section.container-fluid {
@@ -268,6 +286,7 @@ footer p {
   width: 944px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 40px;
   display: block;
   padding-top: 10px;
   border-radius: 75px;
@@ -331,8 +350,13 @@ div.contact-image {
 }
 
 div.container.contact-image {
+padding-top: 0px;
   margin-top: 0px;
-  margin-bottom: 80px;
+  margin-bottom: 0px;
+}
+
+div.container.page-divider {
+margin-top: 0px;
 }
 
 /*-------------------- Forms ---*/
@@ -355,7 +379,7 @@ i.icon {
 /*-------------------- https://codepen.io/scottzirkel/pen/yNxNME ---*/
 
 .hr-text {
-  margin-top: 2em;
+  margin-top: 0px;
   line-height: 1em;
   position: relative;
   outline: 0;
