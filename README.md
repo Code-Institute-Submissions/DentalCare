@@ -5,7 +5,7 @@
 This project is designed to highlight the services of a fictional Dental Practice.
 Using HTML & CSS the aim is to provide an overview of the practice, the services on offer and testimonials from existing customers.
 The purpose of the site is to attract new customers and provide an efficient way for existing customers to request new appointments, both by use of a fillable form.
-A link to the site can be found [here](https://samiishmael.github.io/DentalCare/ target="_blank").
+A link to the site can be found [here](https://samiishmael.github.io/DentalCare/).
 
 
 ## UX 
@@ -177,6 +177,21 @@ The mobile devices and resolutions tested are as follows:
 * Galaxy Fold - Resolution: 280 x 653 (portrait)
 * Galaxy Fold - Resolution: 653 x 280 (landscape)
 
+### Test-Case: Navigation Menu
+1. The Navigation Menu should appear as a bar across the top of the page.
+2. The bar should have 5 clickable items as follows:
+    1. Home - This should be the first of the right hand aligned link entries reading left to right and should appear with a house icon next to it.
+    2. Services - This should be the second of the right hand aligned link entries reading left to right and should appear with a tooth icon next to it.
+    3. Testimonials - This should be the third of the right hand aligned link entries reading left to right and should appear with a speech bubble icon next to it.
+    4. Contact Us - This should be the last of the right hand aligned link entries reading left to right and should appear with a telephone icon next to it.
+    5. Dental Care - This should appear on the far left hand side.
+3. When you click the Home link this should take you to index.html the Main/Landing page.
+4. When you click the Services link this should take you to services.html the Services page.
+5. When you click the Testimonials link this should take you to testimonials.html the Testimonials page.
+6. When you click the Contact Us link this should take you to contact.html the Contact Us page.
+7. When you click the Dental Care link this should take you to index.html the Main/Landing page.
+8. When opening the website in mobile view e.g. on an iPhone X the navigation menu will show as a drop down menu with the above links in order from top to bottom.
+9. While scrolling down the page on desktop or mobile devices the navigation bar should always appear at the top of the screen infront of any text or images.
 
 ### Features
 
