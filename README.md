@@ -6,6 +6,7 @@ This project is designed to highlight the services of a fictional Dental Practic
 Using HTML & CSS the aim is provide an overview of the practice, the services on offer and testimonials from existing customers.
 The purpose of the web page is to attract new customers and provide an efficient website for existing customers to request new appointments.
 
+
 ## UX 
 
 ### Project Goals
@@ -53,12 +54,13 @@ DentalCare there is aimed at to main audiences: New and/or Existing Customers.
 2. Need to be able to quickly review the dental services available to see if they are appropriate to my needs.
 3. Want to be able to view the site across multiple devices e.g. while not at home on desktop or laptop.
 4. Like to review any existing customer feedback.
-5. Want to contact dental care for any business related enquiries.
+5. Want the site to be consistent with visual feedback across the site indicating mouseover/cursor behaviour.
+6. Want to contact dental care for any business related enquiries.
 
-### As an admin user I would:
+#### As an admin user I would:
 
 1. Want the site to address the business goals.
-2. Need to easily redevelop the site should any individual section need updating.
+2. Need to easily redevelop the site should any individual section needs updating.
 3. Code that was easy to read and understand.
 3. Be able to share the repository for collaborative purposes.
 
@@ -101,7 +103,7 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 - Services Page: Highlighting the types of dental services available, with links to testimonials and contact us page.
 - Testimonials Page: Highlighting recent customer reviews, with links to services and contact us page.
 - Contact Us Page: Form fillable contact page allowing customers to get in touch while leaving contact details.
-- Footer: Full contact details on footer with links to respective social media sites.
+- Footer: Fully responsive footer with full business contact details included as well as links to respective social media sites.
 
 ### Features Left to Implement
 
@@ -122,8 +124,11 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 * Navigation bar expands correctly and navigation links work.
 * Navigation bar is stuck to the top when scroll down on all pages.
 * All links (navigation, body text and social media) work.
-* Hover effect displays correctly in body text links and contact us form.
-
+* Hover effect displays correctly in body text links, contact us form and social media links.
+* Images correctly resize and stack correctly across smaller screen sizes.
+* Body text on Features Testimonials pages correctly stack across smaller screen sizes.
+* Footer correctly positioned at bottom of page and responsive across smaller screen sizes stacking in the correct order.
+* Contact Us Form does not accept submission unless required details are inputted i.e. Name, Email and Contact Number, whereas free text area is optional.
 
 ### Validation
 
@@ -133,35 +138,45 @@ Link: [Wireframes](/assets/Wireframes/MilestoneProject1.bmpr)
 
 ### User Stories Testing from UX section
 
-1. Create a welcoming site with an initial visual appeal with immediate recognition that they would be able to find what they are looking for.
-    1. Front Page displays information clearly and has a short expansion of menu items below picture.
-    2. Navigation bar that is always at the top on mobile and desktop to allow them to easily vaigate between pages.
+#### As a visiting customer I would:
 
-2. Have visual cues that align well with ease of site navigation.
-    1. Menu items are darker when on the active page.
-    2. Visual effect created for site links and submit button.
-    3. Social media hover effect for social media links with their corresponding brand colours.
-
-3. Present a depth of available services comprehensive enought of to address short, medium and long term needs from a dental practice.
-    1. Services page breaks down dental services into 3 categories and gives detail on treatments available for each category.
-
-4. Be consistent with visual feedback across the site indicating mouseover/cursor behaviour.
-    1. Clickable links and the submit button on contact us page display the same visual cue of the curved bar filling up on mouseover/click.
-
-5. Make sure icons that are matched well to site specific pages.
-    1. Icons next to menu items and at the top of page sections have a clear visual association to their corresponding pages.
-
-6. Provide reassurance that they are making the right choice in leaving contact details in order to join by reviewing testimonials from existing customers.
+1. Want to be able to nagivate through the website intuitively.
+    1. Website has navigation bar included with collapsable menu for smaller screen sizes.
+    2. Navigation menu has related icons which are also displayed on corresponding pages.
+    3. Navigation bar sticks to top of screen when scrolling for ease of use.
+    4. Home Page displays information clearly and has a short expansion of menu items below picture.
+    5. Menu items are darker when on the active page.
+    6. Visual effect created for site links and submit button.
+    7. Social media hover effect for social media links with their corresponding brand colours.
+2. Need to be able to quickly review the dental services available to see if they are appropriate to my needs.
+    1. Link to services page can be found on navigation bar and as left hand link on main page.
+    2. List of services displayed both broadly and with bullet pointed detail.
+3. Want to be able to view the site across multiple devices e.g. while not at home on desktop or laptop.
+    1. Site has been designed with a mobile-first design philosophy using Bootstrap alongsite the HTML and CSS.
+4. Like to review any existing customer feedback.
     1. Testimonials section given it's own page and highlighting recent customer reviews to enhace customer confidence.
+5. Want the site to be consistent with visual feedback across the site indicating mouseover/cursor behaviour.
+    1. Clickable links and the submit button on contact us page display the same visual cue of the curved bar filling up on mouseover/click.
+    2. Spacing of images and white space consistent throughout the site across a range of devices.
+6. Want to contact dental care for any business related enquiries.
+    1. Contact Us form on contact page provided and fully responsive across all mobile devices tested in Chrome Browser.
 
-7. Be professional in my presentation of information.
-    1. Consise information presented in a clean and consistent manner across the site.
+#### As an admin user I would:
 
-8. Quickly inform them of services available.
-    1. Ability to navigate to services section both in navigation bar at the top and on main page if user scrolls down.
-
-9. Provide a fast remote way of requesting an appointment either from home or on the go.
-    1. Contact Us page provided and fully responsive across all mobile devices tested in Chrome Browser.
+1. Want the site to address the business goals.
+ 1. Colour scheme selected to be consistent with business with a healthcare setting.
+ 2. Site details services and testimonials both with links to contact us form requesting the customer to get in touch.
+ 3. Contact us form does not allow submission until contact details are supplied i.e. Name, Email and Phone Number allowing the business to get back in touch with the customer.
+ 4. Site coded in HTML and CSS and Bootstrap framework used to make the site fully responsive with mobile-first design philosophy.
+ 5. Site tested for it's responsiveness in Chrome Browser across mobile devices listed and for its responsiveness at varying desktop resolutions.
+ 6. Custom CSS code added to customise content from Bootstrap e.g. Submit Button.
+2. Need to easily redevelop the site should any individual section needs updating.
+ 1. Main sections HTML and CSS separated by commented code.
+3. Code that was easy to read and understand.
+ 1. HTML and CSS used standard markup and syntax.
+ 2. HTML and CSS has been arranged using **Alt+Shift+F**
+3. Be able to share the repository for collaborative purposes.
+ 1. Detailed in deployment section.
 
 ### Bugs
 
@@ -245,3 +260,5 @@ Brand colours for social media (Facebook,Twitter and YouTube) mouseover effects 
 * [Autoprefixer](https://autoprefixer.github.io/) was used for CSS.
 
 ### Acknowledgements
+
+Thanks to my mentor Rohit Sharma for his guidance and support during my project.
