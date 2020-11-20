@@ -306,6 +306,11 @@ The mobile devices and resolutions tested are as follows:
 10. The submit button should display the same hover behaviour as previously mentioned for desktop and mobile devices.
 11. The footer should appear at the bottom of the page.
 
+![Desktop Image of Upper Contact Us Page](/assets/images/CPD1.JPG)
+![Desktop Image of Lower Contact Us Page](/assets/images/CPD2.JPG)
+![Mobile Image of Upper Contact Us Page](/assets/images/CPM1.JPG)
+![Mobile Image of Lower Contact Us Page](/assets/images/CPM2.JPG)
+
 ### Features
 
 * The navigation bar is collapsable across smaller devices.
